@@ -33,7 +33,7 @@ Follow these steps to set up the development environment:
 
 1. Clone the repository:
     ```bash
-    git clone https://your-domain.com/evolve.git
+    git clone https://github.com/Haloween-arch/evolve.git
     cd evolve
     ```
 
